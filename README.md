@@ -21,7 +21,7 @@ The hotel chain is losing market share and revenue to competitors. The goal of t
 ![Revenue and Occupancy page](Hotel%20PowerBI%20Dashboard/Page%202%20Revenue%26Occupancy.png)
 
 ### 3. Bookings & Cancellations
-![Bookings and Cancellations page](Hotel%20PowerBI%20Dashboard/page3_bookings_cancellations.png)
+![Bookings and Cancellations page](Hotel%20PowerBI%20Dashboard/Pge%203_Bookings%26Cancellations.png)
 
 ## Key insights
 - Occupancy across the chain is around 58%, so more than 4 in 10 sellable room nights go unused.
