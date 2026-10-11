@@ -18,7 +18,7 @@ The hotel chain is losing market share and revenue to competitors. The goal of t
 ![Home page](Hotel%20PowerBI%20Dashboard/Page%201_Home.png)
 
 ### 2. Revenue & Occupancy
-![Revenue and Occupancy page](Hotel%20PowerBI%20Dashboard/page2_revenue_occupancy.png)
+![Revenue and Occupancy page](Hotel%20PowerBI%20Dashboard/Page%202%20Revenue%26Occupancy.png)
 
 ### 3. Bookings & Cancellations
 ![Bookings and Cancellations page](Hotel%20PowerBI%20Dashboard/page3_bookings_cancellations.png)
