@@ -15,21 +15,21 @@ The hotel chain is losing market share and revenue to competitors. The goal of t
 ## Dashboard pages
 
 ### 1. Home: key KPIs
-![Home page](page1_home.png)
+![Home page](Hotel%20PowerBI%20Dashboard/page1_home.png)
 
 ### 2. Revenue & Occupancy
-![Revenue and Occupancy page](page2_revenue_occupancy.png)
+![Revenue and Occupancy page](Hotel%20PowerBI%20Dashboard/page2_revenue_occupancy.png)
 
 ### 3. Bookings & Cancellations
-![Bookings and Cancellations page](page3_bookings_cancellations.png)
+![Bookings and Cancellations page](Hotel%20PowerBI%20Dashboard/page3_bookings_cancellations.png)
 
 ## Key insights
 - Occupancy across the chain is around 58%, so more than 4 in 10 sellable room nights go unused.
 - About a quarter of bookings are cancelled, which is a significant source of lost revenue.
 
 ## Files
-- [Power BI file (.pbix)](Hotel_Analysis.pbix)
-- [PDF export of the dashboard](Hotel_Dashboard.pdf)
+- [Power BI file (.pbix)](Hotel%20PowerBI%20Dashboard/Hotel_Analysis.pbix)
+- [PDF export of the dashboard](Hotel%20PowerBI%20Dashboard/Hotel_Dashboard.pdf)
 
 ## Tools
 Power BI Desktop, Power Query, DAX
