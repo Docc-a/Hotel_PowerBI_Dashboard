@@ -15,7 +15,7 @@ The hotel chain is losing market share and revenue to competitors. The goal of t
 ## Dashboard pages
 
 ### 1. Home: key KPIs
-![Home page](Hotel%20PowerBI%20Dashboard/page1_home.png)
+![Home page](Hotel%20PowerBI%20Dashboard/Page%201_Home.png)
 
 ### 2. Revenue & Occupancy
 ![Revenue and Occupancy page](Hotel%20PowerBI%20Dashboard/page2_revenue_occupancy.png)
