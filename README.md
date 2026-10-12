@@ -28,7 +28,7 @@ The hotel chain is losing market share and revenue to competitors. The goal of t
 - About a quarter of bookings are cancelled, which is a significant source of lost revenue.
 
 ## Files
-- [Power BI file (.pbix)](Hotel%20PowerBI%20Dashboard/Hotel_Analysis.pbix)
+- [Power BI file (.pbix)](Hotel%20PowerBI%20Dashboard/Power%20BI_Hotel%20Analysis_Dorcas%20Kegode.pbix)
 - [PDF export of the dashboard](Hotel%20PowerBI%20Dashboard/Hotel_Dashboard.pdf)
 
 ## Tools
